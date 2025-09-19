@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saatvik1512" alt="saatvik1512" /></a> </p>
 
-- 🔭 I’m currently working on [Mail Master V1.0](https://github.com/saatvik1512/mailmaster)
+- 🔭 I’m currently working on [Bus Management System](https://github.com/saatvik1512/busManagementApplication)
 
 - 🌱 I’m currently learning **Spring, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://saatviks-resume-craft.lovable.app/](https://saatviks-resume-craft.lovable.app/)
 
-- 📫 How to reach me **saatvik.srit@gmail.com**
+- 📫 How to reach me **pathaksaatvik15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
